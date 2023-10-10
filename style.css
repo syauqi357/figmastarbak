@@ -1,0 +1,282 @@
+.MainWeb {
+  width: 1728px;
+  height: 2505px;
+  padding: 0%;
+  position: relative;
+  background: white;
+}
+
+.Page1 {
+  width: 1732px;
+  height: 919px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Section11 {
+  width: 1732px;
+  height: 919px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Starbucks {
+  width: 170.89px;
+  height: 31.38px;
+  left: 95.5px;
+  top: 71.86px;
+  position: absolute;
+  text-align: center;
+  color: #003c2a;
+  font-size: 25px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Double {
+  width: 92.48px;
+  height: 20.24px;
+  left: 95.5px;
+  top: 98.18px;
+  position: absolute;
+  text-align: center;
+  font-size: 17px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Shots {
+  width: 69.36px;
+  height: 20.24px;
+  left: 183.96px;
+  top: 98.18px;
+  position: absolute;
+  text-align: center;
+  color: #003c2a;
+  font-size: 17px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.AboutUs {
+  width: 76.4px;
+  height: 16.19px;
+  left: 908.72px;
+  top: 82.99px;
+  position: absolute;
+  text-align: center;
+  color: #003c2a;
+  font-size: 15px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+  transition: all ease-in-out 0.2s;
+}
+
+.AboutUs:hover {
+  transform: scale(1.2);
+}
+
+.Community {
+  width: 96.5px;
+  height: 16.19px;
+  left: 1191.19px;
+  top: 82.99px;
+  position: absolute;
+  text-align: center;
+  color: #003c2a;
+  font-size: 15px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+  transition: all ease-in-out 0.2s;
+}
+
+.Community:hover {
+  transform: scale(1.2);
+}
+
+.OurProduct {
+  width: 100.52px;
+  height: 16.19px;
+  left: 1037.39px;
+  top: 82.99px;
+  position: absolute;
+  text-align: center;
+  color: #003c2a;
+  font-size: 15px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+  transition: all ease-in-out 0.2s;
+}
+
+.OurProduct:hover {
+  transform: scale(1.2);
+}
+
+.ContactUs {
+  width: 83.43px;
+              height: 16.19px;
+              left: 1349.01px;
+              top: 82.99px;
+              position: absolute;
+              text-align: center;
+              color: white;
+              font-size: 15px;
+              font-family: Montserrat;
+              font-weight: 700;
+              word-wrap: break-word;
+              transition: all ease-in-out 0.2s;
+}
+
+.ContactUs:hover {
+  transform: scale(1.2);
+}
+
+.BuyNow {
+  width: 150.78px;
+  height: 34.41px;
+  left: 214.11px;
+  top: 625.49px;
+  position: absolute;
+  word-wrap: break-word;
+  transition: all ease-in-out 0.3s;
+}
+
+.BuyNow:hover {
+  transform: scale(1.2);
+}
+
+.Button01 {
+  width: 272.42px;
+  height: 77.93px;
+  left: 146.76px;
+  top: 603.22px;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+
+.Button01:hover {
+  transform: scale(1.2);
+}
+
+.Button02 {
+  width: 272.42px;
+  height: 77.93px;
+  left: 0px;
+  top: 0px;
+  color: white;
+  font-size: 26px;
+  font-family: Montserrat;
+  font-weight: 600;
+  position: absolute;
+  background: #003c2a;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 115px;
+  transition: all ease-in-out 0.3s;
+}
+
+.Button02:hover {
+  transform: scale(1.2);
+}
+
+.Page2 {
+  width: 1743px;
+  height: 502px;
+  left: -10px;
+  top: 908px;
+  position: absolute;
+}
+
+.Rectangle17 {
+  width: 1743px;
+  height: 502px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.AvailableAt {
+  width: 193px;
+  height: 32px;
+  left: 800px;
+  top: 58px;
+  position: absolute;
+  color: #003c2a;
+  font-size: 30px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Indomaret {
+  width: 225.73px;
+  height: 90.42px;
+  left: 427px;
+  top: 126px;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+
+.Indomaret:hover {
+  transform: scale(1.2);
+}
+
+.Alfamart {
+  width: 159.41px;
+  height: 56.32px;
+  left: 736.16px;
+  top: 140.82px;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+
+.Alfamart:hover {
+  transform: scale(1.2);
+}
+
+.Alfamidi {
+  width: 202.86px;
+  height: 50.4px;
+  left: 975.94px;
+  top: 143.79px;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+
+.Alfamidi:hover {
+  transform: scale(1.2);
+}
+
+.superindo {
+  width: 72.52px;
+  height: 81.41px;
+  left: 1243.38px;
+  top: 132.68px;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+
+.superindo:hover {
+  transform: scale(1.2);
+}
+
+.Starbucks1 {
+  width: 215px;
+            height: 209px;
+            left: 1431px;
+            top: 93px;
+            position: absolute;
+            transition: all ease-in-out 0.3s;
+}
+
+.Starbucks1:hover {
+  transform: scale(1.2);
+}
